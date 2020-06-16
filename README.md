@@ -1,6 +1,10 @@
 # XLSTimedMessages
 Skater XL Multiplayer Server Plugin for Sending Messages on an Interval
 
+<p align="center"><img src="https://media.discordapp.net/attachments/720738043509866587/722496969062219826/unknown.png?width=577&height=366" align="center"></p>
+
+
+
 # Installing
 
 Download the newest version from the Releases tab. You should have an `XLSTimedMessages.zip` file. Inside of this zip archive you'll find a folder called `Macs.XLSTimedMessages`, drag this folder into your `Plugins` directory of your `0.9.0`+ XLMultiplayer Server directory. 
