@@ -21,7 +21,7 @@ Inside of the `Macs.XLSTimedMessages` folder you will find a `Config.json` file.
   "Messages": [
     "This is the first message",
     "This is the second message"
-  ], // Message array. Add an element for each message. By default it will scroll through from 0, 1, 2.... and so forth
+  ], // Message array. Add an element for each message. By default it will scroll through from 0, 1, 2...
   "RandomizeMessages": false // Randomize the messages. Doesn't guarantee true randomness
 }
 ```
