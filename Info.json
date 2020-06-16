@@ -1,0 +1,5 @@
+{
+  "Name": "XLSTimedMessages",
+  "AssemblyName": "XLSTimedMessages.dll",
+  "StartupMethod": "XLSTimedMessages.Main:Load"
+}

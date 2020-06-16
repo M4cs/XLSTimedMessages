@@ -1,0 +1,12 @@
+{
+  "Interval": 5,
+  "IntervalType": "minutes",
+  "Duration": 10,
+  "DurationType": "seconds",
+  "MsgColor":  "#ff0000",
+  "Messages": [
+    "This is the first message",
+    "This is the second message"
+  ],
+  "RandomizeMessages": false
+}
